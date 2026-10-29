@@ -81,7 +81,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				"明天的后天的明天",
 				"终将在后来的某天遇见",
 				"Silmy never miss me.",
-				"知更鸟的歌喉唤不醒迷茫的你我 但你自己可以",
+				"知更鸟的歌喉唤不醒迷茫的你我",
 				"阿那刻萨戈拉斯，不会，消弭",
 			],
 			// 主页横幅副标题字体大小
