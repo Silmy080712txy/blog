@@ -78,11 +78,11 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"明天的后天的明天",
-				"终将在后来的某天遇见",
+				"The tomorrow beyond tomorrow",
+				"We will meet, on some later day",
 				"Silmy never miss me.",
-				"知更鸟的歌喉唤不醒迷茫的你我",
-				"阿那刻萨戈拉斯，不会，消弭",
+				"The robin's song can't wake the lost you and me",
+				"Anaxagoras, will not, fade away",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
